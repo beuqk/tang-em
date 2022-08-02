@@ -11,7 +11,7 @@ const CONFIG = {
     reasonPlaceholder: 'Trả lời',
     btnReply: 'Gởi ! 💌💌',
     reply: 'Mình bị thiểu năng thật mà :'( 😊😊',
-    mess: 'Mình biết mà , đúng là chỉ thiểu năng mới bấm zo 🥰. Love you 300.000 😘😘',
+    mess: 'Mình biết mà , đúng là chỉ thiểu năng mới bấm zo 😘😘',
     messDesc: '💬💬 Nhắn tin cho Thành Anh nha. 💬💬',
     btnAccept: 'Ok lun 💖',
     messLink: 'https://www.facebook.com/profile.php?id=100005254575586'
